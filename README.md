@@ -13,5 +13,5 @@ ImageCrop 主要用于剪切大图获取小图！
 
   ## Step 2. Add the dependency
     dependencies {
-            implementation 'com.github.sinothk:ImageCrop:1.0.0409'
+            implementation 'com.github.sinothk:ImageCrop:2.x.1105'
     }
