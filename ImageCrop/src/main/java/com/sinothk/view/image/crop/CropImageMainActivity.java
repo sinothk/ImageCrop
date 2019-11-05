@@ -8,10 +8,11 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
 
+import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
 
-public class CropImageMainActivity extends Activity {
+public class CropImageMainActivity extends AppCompatActivity {
 
     public static final int STYLE_1 = 1;// 1:底图缩放，浮层不变
     public static final int STYLE_2 = 2;// 2:底图不变，浮层移动
